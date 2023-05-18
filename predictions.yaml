@@ -1,0 +1,65 @@
+predictions:
+- oracle: wmo
+  description: Global temperatures set to reach new records in next five years
+  claims:
+  # The annual mean global near-surface temperature for each year between 2023 and 2027 is
+  # predicted to be between 1.1°C and 1.8°C higher than the average over the years 1850-1900.
+  - metric: gistemp
+    period:
+      from: 2023
+      to: 2027
+    value:
+      type: range
+      amount-low: 1.1
+      amount-high: 1.8
+    match: all
+  # The chance of global near-surface temperature exceeding 1.5°C above preindustrial levels
+  # for at least one year between 2023 and 2027 is more likely than not (66%).
+  - metric: gistemp
+    period:
+      from: 2023
+      to: 2027
+    value:
+      type: more-than
+      amount: 1.5
+    match: at-least-one
+  # It is unlikely (32%) that the five-year mean will exceed this threshold.
+  - metric: gistemp
+    period:
+      from: 2023
+      to: 2027
+    value:
+      type: less-than
+      amount: 1.5
+    match: at-least-one
+    aggregate: mean
+  # The chance of at least one year between 2023 and 2027 exceeding the warmest year on
+  # record, 2016, is very likely (98%)
+  - metric: todo
+    period:
+      from: 2023
+      to: 2027
+    value:
+      type: more-than
+      amount: todo
+    match: at-least-one
+  # The chance of the five-year mean for 2023-2027 being higher than the last five
+  # years (2018-2022) is also very likely (98%).
+  - metric: todo
+    period:
+      from: 2023
+      to: 2027
+    value:
+      type: more-than
+      amount: todo
+    match: at-least-one
+    aggregate: mean
+  sources:
+  - uri: https://library.wmo.int/index.php?lvl=notice_display&id=22272#.ZGVxauzMIeU
+    degree: 1
+  - uri: https://public.wmo.int/en/media/press-release/global-temperatures-set-reach-new-records-next-five-years
+    degree: 2
+  - uri: https://www.theguardian.com/environment/2023/may/17/global-heating-climate-crisis-record-temperatures-wmo-research
+    degree: 3
+  - uri: https://www.reuters.com/business/environment/more-likely-than-not-world-will-soon-see-15c-warming-wmo-2023-05-17/?trk=public_post_comment-text
+    degree: 3
