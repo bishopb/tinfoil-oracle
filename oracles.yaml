@@ -1,0 +1,4 @@
+oracles:
+ - id: wmo
+   name: World Meteorological Organization
+   uri: https://public.wmo.int/
