@@ -1,0 +1,12 @@
+metrics:
+- id: gistemp
+  name: Annual Global Mean Near-Surface Temperature
+  unit: year
+  measure: mean
+  sources:
+  - uri: https://data.giss.nasa.gov/gistemp/
+    degree: 1
+    type: data
+  - uri: https://en.wikipedia.org/wiki/Global_surface_temperature
+    degree: 2
+    type: reference
