@@ -13,3 +13,4 @@ These predictions need processing:
 * https://www.nytimes.com/2023/06/06/climate/arctic-sea-ice-melting.html
 * https://markets.businessinsider.com/news/stocks/stock-market-outlook-spx-bull-us-economy-recession-unemployment-rosenberg-2023-6
 * https://hkh.icimod.org/hi-wise/hi-wise-report/
+* https://www.usatoday.com/story/news/nation/2023/07/05/florida-buildings-sea-level-rise-study/70379603007/
