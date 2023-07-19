@@ -14,3 +14,4 @@ These predictions need processing:
 * https://markets.businessinsider.com/news/stocks/stock-market-outlook-spx-bull-us-economy-recession-unemployment-rosenberg-2023-6
 * https://hkh.icimod.org/hi-wise/hi-wise-report/
 * https://www.usatoday.com/story/news/nation/2023/07/05/florida-buildings-sea-level-rise-study/70379603007/
+* https://fortune.com/2023/07/18/sideways-housing-market-goldman-sachs-home-price-forecast-for-2024-2025-2026/
