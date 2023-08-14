@@ -15,3 +15,9 @@ These predictions need processing:
 * https://hkh.icimod.org/hi-wise/hi-wise-report/
 * https://www.usatoday.com/story/news/nation/2023/07/05/florida-buildings-sea-level-rise-study/70379603007/
 * https://fortune.com/2023/07/18/sideways-housing-market-goldman-sachs-home-price-forecast-for-2024-2025-2026/
+* https://public.wmo.int/en/media/press-release/wmo-update-5050-chance-of-global-temperature-temporarily-reaching-15%C2%B0c-threshold
+* https://www.reuters.com/world/us/us-forecasters-raise-number-major-hurricanes-2023-2023-08-10/
+* https://www.goodnewsnetwork.org/analysis-shows-weve-been-overestimating-the-amount-of-plastic-in-oceans-by-30x/
+* https://electrek.co/2023/07/25/worlds-first-flying-electric-car-us-dealerships/
+* https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html
+* https://www.cnn.com/2023/07/20/us/2024-hotter-than-2023-el-nino-nasa-climate/index.html
