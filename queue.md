@@ -22,3 +22,6 @@ These predictions need processing:
 * https://www.cnn.com/2023/07/25/world/gulf-stream-atlantic-current-collapse-climate-scn-intl/index.html
 * https://www.cnn.com/2023/07/20/us/2024-hotter-than-2023-el-nino-nasa-climate/index.html
 * https://www.businessinsider.com/stock-market-crash-recession-outlook-layoffs-job-market-gary-shilling-2024-5
+* https://moneywise.com/real-estate/grant-cardone-warns-of-biggest-real-estate-correction
+* https://www.cnn.com/2024/08/02/climate/atlantic-circulation-collapse-timing/index.html
+* https://www.businessinsider.com/fed-rate-cuts-labor-market-federal-reserve-jerome-powell-unemployment-2024-8
