@@ -26,3 +26,4 @@ These predictions need processing:
 * https://www.cnn.com/2024/08/02/climate/atlantic-circulation-collapse-timing/index.html
 * https://www.businessinsider.com/fed-rate-cuts-labor-market-federal-reserve-jerome-powell-unemployment-2024-8
 * https://www.space.com/the-universe/climate-change/ominous-milestone-for-the-planet-arctic-oceans-1st-ice-free-day-could-be-just-3-years-away-alarming-study-finds
+* https://www.sciencenews.org/article/scientists-undersea-volcano-eruption
