@@ -28,3 +28,4 @@ These predictions need processing:
 * https://www.space.com/the-universe/climate-change/ominous-milestone-for-the-planet-arctic-oceans-1st-ice-free-day-could-be-just-3-years-away-alarming-study-finds
 * https://www.sciencenews.org/article/scientists-undersea-volcano-eruption
 * https://www.cbsnews.com/news/2025-atlantic-hurricane-season-forecast/
+* https://finance.yahoo.com/news/silicon-valley-investor-vinod-khosla-205800150.html
