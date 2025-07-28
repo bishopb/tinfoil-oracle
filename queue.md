@@ -29,3 +29,4 @@ These predictions need processing:
 * https://www.sciencenews.org/article/scientists-undersea-volcano-eruption
 * https://www.cbsnews.com/news/2025-atlantic-hurricane-season-forecast/
 * https://finance.yahoo.com/news/silicon-valley-investor-vinod-khosla-205800150.html
+* https://www.usatoday.com/story/news/weather/2025/07/27/hurricane-season-2025-forecast/85371159007/
