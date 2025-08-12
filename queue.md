@@ -30,3 +30,4 @@ These predictions need processing:
 * https://www.cbsnews.com/news/2025-atlantic-hurricane-season-forecast/
 * https://finance.yahoo.com/news/silicon-valley-investor-vinod-khosla-205800150.html
 * https://www.usatoday.com/story/news/weather/2025/07/27/hurricane-season-2025-forecast/85371159007/
+* https://www.popularmechanics.com/technology/robots/a65562621/when-the-singularity-will-happen-trend/
